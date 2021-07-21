@@ -35,8 +35,8 @@
 #    include "is31fl3741.h"
 #elif defined(WS2812)
 #    include "ws2812.h"
-#elif defined(AW20216S)
-#    include "aw20216s.h"
+#elif defined(AW20216)
+#    include "aw20216.h"
 #endif
 
 #ifndef RGB_MATRIX_LED_FLUSH_LIMIT
